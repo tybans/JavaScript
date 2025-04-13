@@ -11,7 +11,7 @@ Now, once we have the list of classes, then we can use methods, for example, .ad
 Fore example, 
  document.querySelector("button").classList.add("invisible");
 
-So, if we add a class called new-class, then we can see that the class list now has two classes inside of it.
+So, if we add a class called invisible, then we can see that the class list now has two classes inside of it.
 
 Now, what this allows us to do is we can tap into the stylesheet and we can create a separate style for the "invisible" class.
 
